@@ -1,16 +1,29 @@
-# graduation_project
+# 🎓 Graduation Project - Flutter Chat App
 
-A new Flutter project.
+This is a graduation project built with **Flutter**, aiming to provide a clean and modern chat application with user authentication using **Firebase**.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🧑‍💻 User Registration with validation
+- 🔐 Login with email and password
+- 💾 Firebase Authentication integration
+- 🎨 Beautiful and responsive UI for both Android and iOS
+- 🔄 Reusable widgets (custom buttons & text fields)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Register Page | Login Page |
+|---------------|------------|
+| ![Register](assets/screenshots/register.png) | ![Login](assets/screenshots/login.png) |
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/AhmedElsawy44/Graduation-project.git
+cd Graduation-project
